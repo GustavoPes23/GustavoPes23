@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gustavo.silvapes2020@gmail.com**
 
-- 📄 Know about my experiences [ReactJs, Javascript, PHP, NodeJs, TypeScript, Jquery](ReactJs, Javascript, PHP, NodeJs, TypeScript, Jquery)
+- 📄 Know about my experiences [ReactJs, Javascript, PHP, NodeJs, TypeScript, Jquery]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
